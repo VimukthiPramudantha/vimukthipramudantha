@@ -1,4 +1,4 @@
-### <div align="center">I'm Vimukthi, a full-time full-stack freelance developer 👨‍💻 working since 2021🚀</div>  
+### <div align="center">I'm Vimukthi, a full-time full-stack freelance developer working since 2021</div>  
   
 
 - 🔭 I’m currently working on Freight Forwarding Management System  
