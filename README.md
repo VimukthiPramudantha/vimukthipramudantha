@@ -1,16 +1,16 @@
 ### <div align="center">I'm Vimukthi, a full-time full-stack freelance developer working since 2021</div>  
   
 
-- 🔭 I’m currently working on Freight Forwarding Management System  
+- I’m currently working on Freight Forwarding Management System  
   
 
-- 🌱 I’m currently learning Flutter  
+- I’m currently learning Flutter  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- Fun fact: I use tabs over spaces  
   
 
 <br/>  
